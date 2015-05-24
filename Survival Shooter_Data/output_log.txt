@@ -1,0 +1,29 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA NVS 5100M (ID=0xa2c)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marcha_q\Documents\Survival Shooter Anew\Survival Shooter_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 181c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.124835 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 0.375330 ms (FindLiveObjects: 0.072371 ms CreateObjectMapping: 0.016553 ms MarkObjects: 0.263308 ms  DeleteObjects: 0.021942 ms)
+
